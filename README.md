@@ -36,10 +36,6 @@
 ---
 
 ### 📊 LeetCode Stats
-<p align="center">
-  <img width="48%" src="https://leetcard.jacoblin.cool/shivamsrawat7?theme=dark&font=Karma&ext=contest" />
-  <img width="48%" src="https://leetcode-stats-six.vercel.app/api?username=shivamsrawat7&theme=dark" />
-</p>
 
 ---
 
