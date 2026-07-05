@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam7-gif&label=Profile%20views&color=008080&style=flat" alt="shivam7-gif" />
+</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/648aaf1d-3f54-4ba2-9b2e-3beeab8ac605" alt="Shivam Rawat" style="width:100%;max-width:250px;height:auto;" />
 </div>
+
 <h2 align="left">Hi 👋, I'm Shivam Singh Rawat</h2>
 
 <p align="left">
@@ -68,6 +72,13 @@ LangGraph · LangChain · RAG · FastAPI · Next.js · Neo4j · Pinecone · Redi
 - RAG memory layer backed by Neo4j and Pinecone, retrieving architectural decisions in under 120ms and cutting redundant LLM calls by ~40%.
 - Microservices deployed on AWS ECS with Docker and GitHub Actions CI/CD; AST-based code indexing for sub-100ms semantic search across 50K+ line codebases.
 
+**Alumni Connect — Full Stack Networking Platform**
+React.js · Node.js · Express.js · MongoDB · MySQL · WebSockets · scikit-learn · JWT · REST API
+- MERN platform with JWT auth, RBAC, and real-time WebSocket chat sustaining 200+ concurrent sessions.
+- Optimized MongoDB and MySQL query plans, cutting average query latency from ~340ms to under 60ms (82% reduction).
+- scikit-learn cosine similarity recommendation engine for mentor–student matching with 87% relevance accuracy.
+
+---
 
 ### 🏆 Achievements
 
