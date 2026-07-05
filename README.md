@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=17arhaan&label=Profile%20views&color=008080&style=flat" alt="17arhaan" /> 
 </div>
-<img src="https://github.com/user-attachments/assets/648aaf1d-3f54-4ba2-9b2e-3beeab8ac605" alt="Arhaan Girdhar" style="width:100%;max-width:800px;height:auto;" />
+<img src="https://github.com/user-attachments/assets/648aaf1d-3f54-4ba2-9b2e-3beeab8ac605" alt="Arhaan Girdhar" style="width:100%;max-width:400px;height:200px;" />
 
 <h2 align="left">Hi 👋, I'm Shivam Singh Rawat</h2>
 
