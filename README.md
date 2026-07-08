@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivam7-gif&label=Profile%20views&color=008080&style=flat" alt="shivam7-gif" />
-</div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/648aaf1d-3f54-4ba2-9b2e-3beeab8ac605" alt="Shivam Rawat" style="width:100%;max-width:250px;height:auto;" />
-</div>
 
 <h2 align="left">Hi 👋, I'm Shivam Singh Rawat</h2>
 
