@@ -109,7 +109,7 @@ React.js · Node.js · Express.js · MongoDB · MySQL · WebSockets · scikit-le
 
 ### ⚡ GitHub Activity Graph
 
-[![Shivam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivam7-gif&theme=react-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shivam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivam7-gif&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
