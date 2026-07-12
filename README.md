@@ -1,17 +1,17 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Shivam%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h2 align="left">Hi 👋, I'm Shivam Singh Rawat</h2>
+<h2 align="left">Hi I'm Shivam Singh Rawat</h2>
 
 <p align="left">
-🎓 A Software Engineer and B.Tech Information Technology student at <strong>Guru Tegh Bahadur Institute of Technology, New Delhi (GGSIPU)</strong>, passionate about building production-grade systems.<br/>
-💡 I build in <strong>Full Stack Development</strong> (MERN), <strong>Backend Engineering</strong> (FastAPI, Node.js, Microservices), and <strong>Agentic AI</strong> (LangGraph, LangChain, RAG).<br/>
-🚀 Architected <strong>StackPilot AI</strong>, a 6-agent LangGraph orchestration platform deployed on AWS ECS, and <strong>Alumni Connect</strong>, a real-time MERN networking platform built from scratch.<br/>
-🧠 <strong>LeetCode Knight</strong> (peak 1940, top 3%) with 900+ DSA problems solved — strong foundations in algorithms and system design.<br/>
-🌱 Open source contributor with merged PRs in active AI agent codebases through:
+ A Software Engineer and B.Tech Information Technology student at <strong>Guru Tegh Bahadur Institute of Technology, New Delhi (GGSIPU)</strong>, passionate about building production-grade systems.<br/>
+I build in <strong>Full Stack Development</strong> (MERN), <strong>Backend Engineering</strong> (FastAPI, Node.js, Microservices), and <strong>Agentic AI</strong> (LangGraph, LangChain, RAG).<br/>
+Architected <strong>StackPilot AI</strong>, a 6-agent LangGraph orchestration platform deployed on AWS ECS, and <strong>Alumni Connect</strong>, a real-time MERN networking platform built from scratch.<br/>
+ <strong>LeetCode Knight</strong> (peak 1940, top 3%) with 900+ DSA problems solved — strong foundations in algorithms and system design.<br/>
+ Open source contributor with merged PRs in active AI agent codebases through:
 <ul>
   <li>🌸 <strong>GirlScript Summer of Code (GSSoC) 2026</strong></li>
 </ul>
-📌 Actively seeking Software Engineering, Backend, and AI Engineer Internship roles where I can contribute from day one.
+ Actively seeking Software Engineering, Backend, and AI Engineer Internship roles where I can contribute from day one.
 </p>
 
 ---
