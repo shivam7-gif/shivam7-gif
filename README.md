@@ -156,8 +156,6 @@
 
 ### 🐍 Contribution Snake
 
-> Requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action enabled on this repo to generate the SVG below.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam7-gif/shivam7-gif/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </p>
