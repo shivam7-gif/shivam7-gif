@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer;AI+%2F+Agentic+Systems+Engineer;Competitive+Programmer;900%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full Stack Developer;Backend+Developer;AI+%2F+Agentic+Systems+Engineer;Competitive+Programmer;Ml Engineer" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=shivam7-gif&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
