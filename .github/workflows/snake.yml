@@ -1,18 +1,17 @@
-name: generate-snake-game-from-github-contribution-gridname: generate-snake-game-from-github-contribution-grid
+name: generate-snake-game-from-github-contribution-grid
 
 on:
   schedule:
-    # runs once a day, at 00:00 UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  workflow_dispatch: {}
   push:
     branches:
-      - main              # regenerate whenever you push to main
+      - main
 
 jobs:
   generate:
     permissions:
-      contents: write     # needed to push to the "output" branch
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: generate github-contribution-grid-snake.svg
