@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Shivam%20Rawat&text2=Software%20Engineer%20%7C%20Backend%20%7C%20AI&width=1000&height=300" alt="Shivam Rawat banner" />
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Shivam%20🌻&text2=Software%20Engineer%20%7C%20Backend%20%7C%20AI&width=1000&height=300" alt="Shivam Rawat banner" />
 
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Developer;AI+%2F+Agentic+Systems+Engineer;Competitive+Programmer;ML+Engineer" alt="Typing SVG" />
