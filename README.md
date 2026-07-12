@@ -157,7 +157,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivam7-gif/shivam7-gif/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/shivam7-gif/shivam7-gif/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
 ---
