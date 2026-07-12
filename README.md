@@ -104,7 +104,7 @@ React.js · Node.js · Express.js · MongoDB · MySQL · WebSockets · scikit-le
 ### 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=shivam7-gif)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/shivamsrawat7/)
 ---
 
 ### ⚡ GitHub Activity Graph
