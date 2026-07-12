@@ -116,7 +116,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🤖 StackPilot AI**
+** StackPilot AI**
 *Agentic Software Engineering Platform*
 
 - 6-agent orchestration system for autonomous code generation
