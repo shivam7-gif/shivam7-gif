@@ -16,16 +16,16 @@
 
 ###  About Me
 
-- 🎓 B.Tech in Information Technology at **GGSIPU, New Delhi**
-- 💻 I build scalable backend systems and AI-powered applications
-- 🚀 Currently exploring **Agentic AI**, **RAG systems**, and **distributed systems design**
-- 🏆 **LeetCode Knight** · Peak rating **1940 (Top 3%)** · **1000+** DSA problems solved
-- 🌸 Open source contributor — **GirlScript Summer of Code 2026**
-- 📫 Reach me at **shivamsrawat7@gmail.com**
+-  B.Tech in Information Technology at **GGSIPU, New Delhi**
+- I build scalable backend systems and AI-powered applications
+- Currently exploring **Agentic AI**, **RAG systems**, and **distributed systems design**
+-  **LeetCode Knight** · Peak rating **1940 (Top 3%)** · **1000+** DSA problems solved
+- Open source contributor — **GirlScript Summer of Code 2026**
+- Reach me at **shivamsrawat7@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:shivamsrawat7@gmail.com">
