@@ -42,11 +42,6 @@
   </a>
 </p>
 
-> Add a Codeforces badge once you have a handle:
-> `[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_HANDLE)`
-
----
-
 ### 🛠 Tech Stack
 
 **Languages**
