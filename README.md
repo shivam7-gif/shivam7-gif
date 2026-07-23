@@ -3,7 +3,7 @@
 <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Shivam%20🌻&text2=Software%20Engineer%20%7C%20Backend%20%7C%20AI&width=1000&height=300" alt="Shivam Rawat banner" />
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Developer;AI+%2F+Agentic+Systems+Engineer;Competitive+Programmer;ML+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Dev;AI+%2F+Agentic+Systems+Engineer;Competitive+Programmer;ML+Engineer" alt="Typing SVG" />
 <p>
   <img src="https://komarev.com/ghpvc/?username=shivam7-gif&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/shivam7-gif?logo=github&style=for-the-badge&color=0e75b6" alt="Followers"/>
