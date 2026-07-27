@@ -100,39 +100,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-** StackPilot AI**
-*Agentic Software Engineering Platform*
-
-- 6-agent orchestration system for autonomous code generation
-- Multi-agent planning with semantic code search (RAG memory)
-- Dockerized, deployed on AWS ECS with a CI/CD pipeline
-
-`LangGraph` `LangChain` `FastAPI` `Next.js` `Neo4j` `Pinecone` `Redis` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 Alumni Connect**
-*Full Stack Networking Platform*
-
-- JWT authentication with role-based access control (RBAC)
-- Real-time chat via WebSockets
-- Recommendation engine backed by REST APIs
-
-`React` `Node.js` `Express` `MongoDB` `MySQL` `WebSockets`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🏅 Certifications
 
 - AWS Educate — Cloud Computing Foundations
