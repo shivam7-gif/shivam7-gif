@@ -120,5 +120,5 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
   <br/><br/>
-  <h3>⭐ Thanks for visiting my profile — feel free to connect! ⭐</h3>
+  <h3> Thanks for visiting my profile — feel free to connect! </h3>
 </div>
