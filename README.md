@@ -44,7 +44,6 @@
 
 ### 🛠 Tech Stack
 
-**Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go" alt="languages"/>
 
