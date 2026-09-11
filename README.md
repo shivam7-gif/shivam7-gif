@@ -89,7 +89,7 @@
 
 ---
 
-### 💻 Competitive Programming
+###  Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/shivamsrawat7/" target="_blank">
@@ -99,7 +99,7 @@
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 
 - AWS Educate — Cloud Computing Foundations
 - Oracle OCI Foundations Associate
@@ -108,7 +108,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam7-gif/shivam7-gif/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
