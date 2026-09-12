@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### 🛠 Tech Stack
+### Tech Stack
 
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go" alt="languages"/>
