@@ -103,8 +103,7 @@
 
 - AWS Educate — Cloud Computing Foundations
 - Oracle OCI Foundations Associate
-- Google Cloud Computing Fundamentals
-- Dice Academy — Full Stack Development
+- Google Cloud Computing Fundamental
 
 ---
 
