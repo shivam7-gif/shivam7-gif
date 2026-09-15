@@ -21,7 +21,6 @@
 - Currently exploring **Agentic AI**, **RAG systems**, and **distributed systems design**
 -  **LeetCode Knight** · Peak rating **2040 (Top 2.1%)** · **1400+** DSA problems solved
 - Open source contributor — **GirlScript Summer of Code 2026**
-- Reach me at **shivamsrawat7@gmail.com**
 
 ---
 
