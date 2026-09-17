@@ -102,7 +102,6 @@
 
 - AWS Educate — Cloud Computing Foundations
 - Oracle OCI Foundations Associate
-- Google Cloud Computing Fundamental
 
 ---
 
