@@ -1,30 +1,17 @@
-<div align="center">
-
-<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Shivam%20Rawat&text2=Software%20Engineer%20%7C%20Backend%20%7C%20AI&width=1000&height=300" alt="Shivam Rawat banner" />
-
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Dev;AI+%2F+Agentic+Systems+Engineer;Competitive+Programmer;ML+Engineer" alt="Typing SVG" />
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shivam7-gif&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/shivam7-gif?logo=github&style=for-the-badge&color=0e75b6" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/shivam7-gif?affiliations=OWNER&style=for-the-badge&color=0e75b6" alt="Stars"/>
-</p>
-
-</div>
 
 ---
 
-### 👋 About Me
+###  About Me
 
-- 🎓 B.Tech in Information Technology at **GGSIPU, New Delhi**
-- 🛠️ I build scalable backend systems and AI-powered applications
-- 🔭 Currently exploring **Agentic AI**, **RAG systems**, and **distributed systems design**
-- 🏆 **LeetCode Knight** · Peak rating **1980+ (Top 2.7%)** · **1470+** DSA problems solved
-- 🤝 Open source contributor — **GirlScript Summer of Code 2026**
+-  B.Tech in Information Technology at **GGSIPU, New Delhi**
+-  I build scalable backend systems and AI-powered applications
+-  Currently exploring **Agentic AI**, **RAG systems**, and **distributed systems design**
+-  **LeetCode Knight** · Peak rating **1980+ (Top 2.7%)** · **1470+** DSA problems solved
+-  Open source contributor — **GirlScript Summer of Code 2026**
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="mailto:shivamsrawat7@gmail.com">
@@ -43,7 +30,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -71,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivam7-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -88,7 +75,7 @@
 
 ---
 
-### 🗓️ 3D Contribution Calendar
+###  3D Contribution Calendar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam7-gif/shivam7-gif/main/metrics.isocalendar.svg" alt="3D contribution calendar"/>
@@ -96,7 +83,7 @@
 
 ---
 
-### 🧩 Competitive Programming
+### Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/shivamsrawat7/" target="_blank">
@@ -106,14 +93,14 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - AWS Educate — Cloud Computing Foundations
 - Oracle OCI Foundations Associate
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam7-gif/shivam7-gif/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
