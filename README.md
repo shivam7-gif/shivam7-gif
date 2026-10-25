@@ -78,7 +78,6 @@
 
 ---
 
-### Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/shivamsrawat7/" target="_blank">
