@@ -1,7 +1,6 @@
 
 ---
 
-###  About Me
 
 -  B.Tech in Information Technology at **GGSIPU, New Delhi**
 -  I build scalable backend systems and AI-powered applications
@@ -11,7 +10,6 @@
 
 ---
 
-###  Connect With Me
 
 <p align="center">
   <a href="mailto:shivamsrawat7@gmail.com">
@@ -30,7 +28,6 @@
 
 ---
 
-###  Tech Stack
 
 **Languages**
 
@@ -58,7 +55,6 @@
 
 ---
 
-###  GitHub Statistics
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivam7-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -75,7 +71,6 @@
 
 ---
 
-###  3D Contribution Calendar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam7-gif/shivam7-gif/main/metrics.isocalendar.svg" alt="3D contribution calendar"/>
