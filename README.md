@@ -4,7 +4,7 @@
 
 -  B.Tech in Information Technology at **GGSIPU, New Delhi**
 -  I build scalable backend systems and AI-powered applications
--  Currently exploring **Agentic AI**, **RAG systems**, and **distributed systems design**
+-  Currently exploring **Agentic AI**, **RAG systems**, and **distributed systems design engineer**
 -  **LeetCode Knight** · Peak rating **1980+ (Top 2.7%)** · **1500+** DSA problems solved
 -  Open source contributor — **GirlScript Summer of Code 2026**
 
