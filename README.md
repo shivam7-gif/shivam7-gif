@@ -85,11 +85,6 @@
 
 ---
 
-###  Certifications
-
-- AWS Educate — Cloud Computing Foundations
-- Oracle OCI Foundations Associate
-
 ---
 
 ###  Contribution Snake
